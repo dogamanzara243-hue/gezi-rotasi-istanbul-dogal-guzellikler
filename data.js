@@ -4,24 +4,29 @@ const DETAIL_DATA = {
     "badge": "Doğal Güzellikler",
     "items": [
         {
-            "title": "İstanbul Boğazı",
-            "desc": "İki kıtayı ayıran eşsiz su yolu ve akıntıları."
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Istanbul",
+            "desc": "Istanbul şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
         },
         {
-            "title": "Emirgan Korusu",
-            "desc": "Laleleri ve devasa ağaçlarıyla boğaz manzaralı koru."
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Istanbul",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
         },
         {
-            "title": "Belgrad Ormanı",
-            "desc": "Şehrin kuzeyinde yeşilin ve koşu parkurlarının kalbi."
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Istanbul",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
         },
         {
-            "title": "Atatürk Arboretumu",
-            "desc": "Binlerce farklı bitki türüne ev sahipliği yapan canlı müze."
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Istanbul",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
         },
         {
-            "title": "Büyükada Dilburnu",
-            "desc": "Adalar'ın en huzurlu çam kokulu doğa burnu."
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Istanbul",
+            "desc": "Istanbul keşif turunun vazgeçilmez simgelerinden biri."
         }
     ]
 };
